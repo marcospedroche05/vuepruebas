@@ -4,6 +4,7 @@
     <li><router-link to="/">Nombre</router-link></li>
     <li><router-link to="/edad">Edad</router-link></li>
     <li><router-link to="/contador">Contador</router-link></li>
+    <li><router-link to="/directivas">Directivas</router-link></li>
   </ul>
   <hr />
   <router-view></router-view>
