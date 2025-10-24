@@ -5,7 +5,10 @@
     <li><router-link to="/edad">Edad</router-link></li>
     <li><router-link to="/contador">Contador</router-link></li>
     <li><router-link to="/directivas">Directivas</router-link></li>
+<<<<<<< HEAD
     <li><router-link to="/parimpar">Par impar</router-link></li>
+=======
+>>>>>>> 497c05c8a3cf998ef85f74765f16d6f9d8f640a5
   </ul>
   <hr />
   <router-view></router-view>
