@@ -7,6 +7,7 @@
     <li><router-link to="/directivas">Directivas</router-link></li>
     <li><router-link to="/parimpar">Par impar</router-link></li>
     <li><router-link to="/propiedad">Propiedad conmutada</router-link></li>
+    <li><router-link to="/filter">Métodos filter</router-link></li>
   </ul>
   <hr />
   <router-view></router-view>

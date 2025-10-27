@@ -6,7 +6,7 @@ img {
     height: 250px;
 }
 
-li {
+ul#menu li {
     display: inline;
     margin: 0.3rem;
 }
